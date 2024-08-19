@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biogene Search</title>
+</head>
+<body>
+    <h1>Search for Gene, Drug, or Protein</h1>
+    <form method="post">
+        <label for="query">Enter Query:</label>
+        <input type="text" id="query" name="query" required>
+
+        <label for="query_type">Search Type:</label>
+        <select id="query_type" name="query_type" required>
+            <option value="gene">Gene</option>
+            <option value="drug">Drug</option>
+            <option value="protein">Protein</option>
+        </select>
+
+        <input type="submit" value="Search">
+    </form>
+</body>
+</html>

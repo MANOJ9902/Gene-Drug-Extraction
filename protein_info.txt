@@ -1,0 +1,40 @@
+Protein ID: XDF82409
+Description: truncated hemoglobin YjbI [Staphylococcus aureus]
+Sequence Length: 121
+--------------------------------------------------
+Protein ID: WP_368005723
+Description: group 1 truncated hemoglobin [Laspinema palackyanum]
+Sequence Length: 124
+--------------------------------------------------
+Protein ID: BFM18046
+Description: group II truncated hemoglobin [Maricurvus nonylphenolicus]
+Sequence Length: 139
+--------------------------------------------------
+Protein ID: BFM17197
+Description: group 1 truncated hemoglobin [Maricurvus nonylphenolicus]
+Sequence Length: 120
+--------------------------------------------------
+Protein ID: BFM14203
+Description: group 1 truncated hemoglobin [Maricurvus nonylphenolicus]
+Sequence Length: 122
+--------------------------------------------------
+Protein ID: BFM13604
+Description: group 1 truncated hemoglobin [Simiduia litorea]
+Sequence Length: 151
+--------------------------------------------------
+Protein ID: BFM10888
+Description: group II truncated hemoglobin [Simiduia litorea]
+Sequence Length: 137
+--------------------------------------------------
+Protein ID: BFM06163
+Description: group II truncated hemoglobin [Halioxenophilus aromaticivorans]
+Sequence Length: 145
+--------------------------------------------------
+Protein ID: BFM05620
+Description: group 1 truncated hemoglobin [Halioxenophilus aromaticivorans]
+Sequence Length: 131
+--------------------------------------------------
+Protein ID: XDF37937
+Description: group III truncated hemoglobin [Paracidovorax avenae]
+Sequence Length: 151
+--------------------------------------------------

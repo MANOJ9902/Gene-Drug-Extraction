@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chat with Papers</title>
+</head>
+<body>
+    <h1>Chat with Papers</h1>
+    <form method="post">
+        <label for="query">Your question:</label>
+        <input type="text" id="query" name="query" required>
+
+        <label for="collection">Select Collection:</label>
+        <select id="collection" name="collection" required>
+            {% for collection in collection_names %}
+                <option value="{{ collection }}">{{ collection }}</option>
+            {% endfor %}
+        </select>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <h2>Response:</h2>
+    <p>{{ response }}</p>
+</body>
+</html>
